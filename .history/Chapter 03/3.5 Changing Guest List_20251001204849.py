@@ -19,3 +19,4 @@ guest_list[1] = 'David'
 print("\nUpdated invitations:")
 for guest in guest_list:
     print(f"Dear {guest}, you are invited to dinner.")
+g

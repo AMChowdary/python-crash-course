@@ -19,3 +19,7 @@ guest_list[1] = 'David'
 print("\nUpdated invitations:")
 for guest in guest_list:
     print(f"Dear {guest}, you are invited to dinner.")
+guest_list = ['Alice', 'Bob', 'Charlie']
+print("Initial invitations:")
+for guest in guest_list:
+    print(f"Dear {guest}, you are invited to dinner.")

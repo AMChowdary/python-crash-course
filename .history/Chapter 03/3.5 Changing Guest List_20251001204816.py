@@ -15,7 +15,3 @@ for guest in guest_list:
 unable_to_attend = guest_list[1]
 print(f"\nUnfortunately, {unable_to_attend} can't make it to the dinner.")
 # Replace with a new guest
-guest_list[1] = 'David'
-print("\nUpdated invitations:")
-for guest in guest_list:
-    print(f"Dear {guest}, you are invited to dinner.")
