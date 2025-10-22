@@ -15,5 +15,4 @@ for n in numbers:
     elif n == 4:
         suffix = "th"
     else:
-        suffix = "th"
     print(f"{n}{suffix}")

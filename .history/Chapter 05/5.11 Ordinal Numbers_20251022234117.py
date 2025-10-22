@@ -14,6 +14,5 @@ for n in numbers:
         suffix = "rd"
     elif n == 4:
         suffix = "th"
-    else:
-        suffix = "th"
+        
     print(f"{n}{suffix}")
